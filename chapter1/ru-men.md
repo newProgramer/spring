@@ -107,7 +107,7 @@ public class SecurityConfiguration extends WebSecurityConfigurerAdapter {
 
 ### 6. 自定义用户认证
 
-![](https://upload-images.jianshu.io/upload_images/4676695-e0b57a0d5480f1a3.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/700)
+![](https://upload-images.jianshu.io/upload_images/4676695-e0b57a0d5480f1a3.png?imageMogr2/auto-orient/strip|imageView2/2/w/700)
 
 ```
 public class SecurityConfiguration extends WebSecurityConfigurerAdapter {
